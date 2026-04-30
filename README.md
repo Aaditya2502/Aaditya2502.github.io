@@ -74,7 +74,7 @@ cd aaditya2502.github.io
 open index.html
 ```
 
-Or just drag `index.html` into any browser. ✅
+Or just drag `index.html` into any browser.
 
 ---
 
