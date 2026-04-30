@@ -35,7 +35,7 @@ The site is designed to be fast, interactive, and fully responsive — with no f
 | CSS3 | Styling, animations, glassmorphism |
 | Vanilla JavaScript | Interactivity, canvas, cursor |
 | Google Fonts | Clash Display, Cabinet Grotesk, Fira Code |
-| GitHub Pages | Free hosting |
+| GitHub Pages | Hosting |
 
 ---
 
